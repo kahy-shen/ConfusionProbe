@@ -2,7 +2,7 @@
 
 ### Data Resources
 ---
-The "OriginalBenchmarks" folder contains the two original benchmarks (HellaSwag and Social IQA) used in the experimental study, including the corresponding training and development sets. The "PerturbedBenchmarks" folder includes NQ-, WQ-, and NRA-perturbed dev sets for benchmarks. For each instance in the dev sets of both the original and perturbed benchmarks, we have provided the confidence score obtained from the RoBERTa ensemble model in "Output" folders.
+The "OriginalBenchmarks" folder contains the two original benchmarks (HellaSwag and Social IQA) used in the experimental study, including the corresponding training and dev sets. The "PerturbedBenchmarks" folder includes NQ-, WQ-, and NRA-perturbed dev sets for benchmarks. For each instance in the dev sets of both the original and perturbed benchmarks, we have provided the confidence score obtained from the RoBERTa ensemble model in "Output" folders.
 
 
 ### Data processing
